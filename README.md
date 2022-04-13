@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asinz
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me discord: asin#6749
 
 <!---
