@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asinz
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me discord: asin#6749
+- 🌱 I’m currently learning Python
+- 📫 How to reach me discord: karakartal17#6749
 
 <!---
 asinz/asinz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
