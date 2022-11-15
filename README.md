@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asinz
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 📫 How to reach me discord: karakartal17#6749
 
 <!---
