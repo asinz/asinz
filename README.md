@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @asinz
+- 👋 Hi, I’m @irfan
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning C#
 - 📫 How to reach me discord: karakartal17#6749
